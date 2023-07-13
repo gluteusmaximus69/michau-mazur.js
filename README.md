@@ -13,10 +13,11 @@ osadź skypt frameworka na swojej stronie
 
 Usage:
 
-```
-specjalne tagi pozwalają w prosty sposób osadzić na stronie animowany element z przekazem "❤❤❤❤❤ KOCHAM (!) JavaScript ❤❤❤❤❤":  <michau-mazur></michau-mazur>
-kolorowanie divów nigdy nie było prostsze dzięki specjalnym atrybutom!: michau-mazur-background-color="red"
-```
+1. Specjalne tagi pozwalają w prosty sposób osadzić na stronie animowany element z przekazem:
+   "❤❤❤❤❤ KOCHAM (!) JavaScript ❤❤❤❤❤":  <michau-mazur></michau-mazur>
+
+3. Kolorowanie divów nigdy nie było prostsze dzięki specjalnym atrybutom!: michau-mazur-background-color="red"
+
 
 Example:
 
