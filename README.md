@@ -4,6 +4,12 @@ Najlepszy Framework JavaScript
 
 ![image](https://github.com/gluteusmaximus69/michau-mazur.js/assets/53353335/3d133b49-0a6a-4c34-bac2-0bf1bc7b486a)
 
+Instalacja:
+
+osadź skypt frameworka na swojej stronie
+```
+<script src="michau-mazur.js"></script>
+```
 
 Usage:
 
@@ -12,7 +18,7 @@ specjalne tagi pozwalają w prosty sposób osadzić na stronie animowany element
 kolorowanie divów nigdy nie było prostsze dzięki specjalnym atrybutom!: michau-mazur-background-color="red"
 ```
 
-example:
+Example:
 
 ```
   <body>
